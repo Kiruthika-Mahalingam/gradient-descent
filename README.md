@@ -21,7 +21,7 @@ Ensure you have Python installed. Install the required libraries using:
 
 ```bash
 pip install numpy pandas matplotlib
-
+```
 ## Example Output
 Optimal slope m (Brute-force): 2.55034
 Optimal slope m (Gradient Descent): 2.53441
@@ -31,4 +31,4 @@ Gradient Descent was approximately 7.14 times more efficient than brute-force.
 numpy
 pandas
 matplotlib
-```
+
